@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `storybook:serve`
 
-### `storybook:serve`
+### `storybook:build`
 
 ### `npm run serve`
 
